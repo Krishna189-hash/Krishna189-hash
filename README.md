@@ -24,4 +24,4 @@ To build impactful applications, improve my full-stack development skills, and c
 ### 🤝 Let's Connect
 
 - GitHub: [Krishna189-hash](https://github.com/Krishna189-hash)
-- email-krishnanjalipanda159@gmail.com
+- email- krishnanjalipanda159@gmail.com
