@@ -1,4 +1,4 @@
-# Hi, I'm Krishna 👋
+# Hi, I'm Krishnanjali 👋
 
 ### 💻 CSE Student | Python Developer | Full-Stack Developer
 
