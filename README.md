@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Krishna 👋
 
-<!--
-**Krishna189-hash/Krishna189-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 CSE Student | Python Developer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about software development and building useful applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Strong in Python programming
+- 🎨 Frontend development and responsive UI design
+- ⚙️ Backend development and application logic
+- 🚀 Interested in building real-world projects
+- 🌱 Always learning and improving my skills
+
+### 🛠️ Technologies
+
+- Python
+- HTML
+- CSS
+- JavaScript
+
+### 🎯 My Goal
+
+To build impactful applications, improve my full-stack development skills, and contribute to meaningful projects.
+
+### 🤝 Let's Connect
+
+- GitHub: [Krishna189-hash](https://github.com/Krishna189-hash)
